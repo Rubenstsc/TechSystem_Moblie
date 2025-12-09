@@ -50,26 +50,27 @@ Dart
 
 Integração com IA
 
-▶️ Como Executar o Projeto
+## ▶️ Como Executar o Projeto
 
-Clone este repositório:
-
+**Clone este repositório:**
+```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
+```
 
-
-Acesse o diretório do projeto:
-
+**Acesse o diretório do projeto:**
+```bash
 cd seu-repositorio
+```
 
-
-Instale as dependências:
-
+**Instale as dependências:**
+```bash
 flutter pub get
+```
 
-
-Execute a aplicação:
-
+**Execute a aplicação:**
+```bash
 flutter run
+```
 
 
 🎯 Objetivo do Projeto
