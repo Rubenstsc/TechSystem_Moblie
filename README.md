@@ -75,6 +75,8 @@ flutter pub get
 flutter run
 ```
 
+---
+
 📋 Pré-requisitos
 
 Antes de iniciar, verifique se você possui instalado:
@@ -87,6 +89,7 @@ Android Studio ou VS Code
 
 Emulador Android ou dispositivo físico
 
+---
 
 🎯 Objetivo do Projeto
 
@@ -100,6 +103,7 @@ Demonstração de integração com IA
 
 Apresentações e portfólio
 
+---
 
 📄 Licença
 
