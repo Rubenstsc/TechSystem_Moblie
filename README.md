@@ -107,4 +107,4 @@ Apresentações e portfólio
 
 📄 Licença
 
-Lincensed unedr the MIT License
+Lincensed under the MIT License
