@@ -11,7 +11,7 @@
 
 Aplicação **mobile desenvolvida em Flutter (Dart)** para gerenciamento de **chamados técnicos**, permitindo a abertura, acompanhamento e análise de chamados de forma prática e intuitiva.
 
-O sistema conta com **integração com Inteligência Artificial**, **notificações** e uma interface focada na experiência do usuário em dispositivos móveis.
+O sistema conta com **integração com Inteligência Artificial** e uma interface focada na experiência do usuário em dispositivos móveis.
 
 ---
 
