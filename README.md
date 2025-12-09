@@ -1,54 +1,57 @@
-📱 Sistema de Chamados Técnicos – Flutter
+# 📱 Sistema de Chamados Técnicos — Flutter
 
-🚀 Aplicação mobile desenvolvida em Flutter (Dart) para gerenciamento de chamados técnicos, com recursos modernos como inteligência artificial e uma interface pensada para produtividade e usabilidade.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![Mobile](https://img.shields.io/badge/Mobile-App-blue)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
 
-📌 Sobre o Projeto
+---
 
-Este projeto foi criado com o objetivo de oferecer uma solução prática e eficiente para abertura e acompanhamento de chamados técnicos em dispositivos móveis.
+## 📌 Sobre o Projeto
 
-A aplicação permite que o usuário registre problemas, acompanhe o status dos chamados em tempo real, receba notificações e conte com o apoio de IA para orientação e análise.
+Aplicação **mobile desenvolvida em Flutter (Dart)** para gerenciamento de **chamados técnicos**, permitindo a abertura, acompanhamento e análise de chamados de forma prática e intuitiva.
 
-✨ Funcionalidades
+O sistema conta com **integração com Inteligência Artificial**, **notificações** e uma interface focada na experiência do usuário em dispositivos móveis.
 
-✅ Abertura de chamados técnicos
+---
 
-Registro de problemas com descrição detalhada
+## ✨ Funcionalidades
 
-Organização clara das informações
+✅ **Abertura de chamados técnicos**  
+✅ **Consulta e acompanhamento do status dos chamados**  
+✅ **Histórico completo de chamados**  
+✅ **Opinião e auxílio da Inteligência Artificial**  
+✅ **Sistema de notificações automáticas**  
+✅ **Interface responsiva e intuitiva (mobile-first)**  
 
-✅ Consulta e acompanhamento de chamados
+---
 
-Visualização do status (aberto, em andamento, finalizado)
+## 🧠 Inteligência Artificial
 
-Histórico completo dos chamados
+A aplicação utiliza IA para:
 
-✅ Opinião e auxílio da Inteligência Artificial
+- Analisar a descrição do problema
+- Sugerir possíveis soluções
+- Auxiliar na tomada de decisão
+- Melhorar a experiência do usuário
 
-Sugestão de soluções
+---
 
-Análise contextual do problema informado
+## 🔔 Notificações
 
-Apoio à tomada de decisão
+- Atualizações de status do chamado  
+- Avisos importantes em tempo real  
+- Melhor comunicação entre sistema e usuário  
 
-✅ Sistema de notificações
+---
 
-Avisos de atualização de chamados
+## 🛠️ Tecnologias Utilizadas
 
-Melhor comunicação e resposta rápida
+- **Flutter**
+- **Dart**
+- **Integração com IA**
 
-✅ Interface responsiva e intuitiva
-
-Desenvolvida com Flutter
-
-Foco total em experiência mobile
-
-🛠️ Tecnologias Utilizadas
-
-Flutter
-
-Dart
-
-Integração com IA
+---
 
 ## ▶️ Como Executar o Projeto
 
@@ -72,6 +75,18 @@ flutter pub get
 flutter run
 ```
 
+📋 Pré-requisitos
+
+Antes de iniciar, verifique se você possui instalado:
+
+Flutter SDK
+
+Dart SDK
+
+Android Studio ou VS Code
+
+Emulador Android ou dispositivo físico
+
 
 🎯 Objetivo do Projeto
 
@@ -84,6 +99,7 @@ Aplicações reais para uso acadêmico ou profissional
 Demonstração de integração com IA
 
 Apresentações e portfólio
+
 
 📄 Licença
 
